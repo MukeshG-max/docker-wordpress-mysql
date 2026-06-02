@@ -1,4 +1,4 @@
-# 🐳 Day 11 — WordPress + MySQL with Docker Compose
+# WordPress + MySQL with Docker Compose
 
 A fully containerized WordPress site backed by MySQL, deployed using Docker Compose.  
 Built as part of my **30-day Docker learning journey**.
@@ -107,4 +107,4 @@ docker-wordpress-mysql/
 ## 👤 Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/mukesh-g-6b9592269) • [GitHub](https://github.com/MukeshG-max)
