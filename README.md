@@ -90,21 +90,11 @@ docker-wordpress-mysql/
 - Connecting containers using Docker networks
 - Persisting data using Docker volumes
 - Deploying a multi-container application
-- How WordPress and MySQL communicate in production-style setup
-
----
-
-## 🔗 Part of My Docker Journey
-
-| Day | Topic |
-|---|---|
-| Day 1-5 | Docker basics, images, containers |
-| Day 6-10 | Dockerfile, building custom images |
-| **Day 11** | **Volumes + Networking + Docker Compose** |
+- How WordPress and MySQL communicate in production-style 
 
 ---
 
 ## 👤 Author
 
-**Your Name**  
+**Mukesh G**  
 [LinkedIn](https://www.linkedin.com/in/mukesh-g-6b9592269) • [GitHub](https://github.com/MukeshG-max)
