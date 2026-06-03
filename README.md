@@ -1,7 +1,6 @@
 # WordPress + MySQL with Docker Compose
 
 A fully containerized WordPress site backed by MySQL, deployed using Docker Compose.  
-Built as part of my **30-day Docker learning journey**.
 
 ---
 
